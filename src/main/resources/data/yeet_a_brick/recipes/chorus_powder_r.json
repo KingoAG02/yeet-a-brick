@@ -1,0 +1,16 @@
+{
+  "group": "yeet_a_brick",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "yeet_a_brick:grinding_bowl"
+    }
+  ],
+  "result": {
+    "item": "yeet_a_brick:chorus_powder",
+    "count": 1
+  }
+}

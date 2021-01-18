@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "yeet_a_brick:blocks/stone",
+    "up": "yeet_a_brick:blocks/mixer_top",
+    "north": "yeet_a_brick:blocks/mixer_side",
+    "east": "yeet_a_brick:blocks/mixer_side",
+    "south": "yeet_a_brick:blocks/mixer_side",
+    "west": "yeet_a_brick:blocks/mixer_side",
+    "particle": "yeet_a_brick:blocks/stone"
+  }
+}

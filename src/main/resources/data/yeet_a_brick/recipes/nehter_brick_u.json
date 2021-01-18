@@ -1,0 +1,16 @@
+{
+  "group": "yeet_a_brick",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "yeet_a_brick:nether_brick"
+    }
+  },
+  "result": {
+    "item": "minecraft:nether_brick",
+    "count": 1
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Brick",
+      "type": "gun",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brick"
+    },
+    {
+      "name": "NetherBrick",
+      "type": "gun",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_brick"
+    },
+    {
+      "name": "BrickC",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brick_c"
+    },
+    {
+      "name": "NetherBrickC",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_brick_c"
+    },
+    {
+      "name": "BrickU",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brick_u"
+    },
+    {
+      "name": "NehterBrickU",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nehter_brick_u"
+    },
+    {
+      "name": "Mixer",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mixer"
+    },
+    {
+      "name": "MixerG",
+      "type": "gui",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mixer_g"
+    },
+    {
+      "name": "MixerP",
+      "type": "procedure",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mixer_p",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GrindingBowl",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grinding_bowl"
+    },
+    {
+      "name": "ChorusPowder",
+      "type": "gun",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chorus_powder"
+    },
+    {
+      "name": "ChorusPowderBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chorus_powder_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ChorusPowderR",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chorus_powder_r"
+    },
+    {
+      "name": "ChorusBrick",
+      "type": "gun",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chorus_brick"
+    },
+    {
+      "name": "ChorusBrickBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chorus_brick_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GrindingBowlR",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grinding_bowl_r"
+    },
+    {
+      "name": "MudBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mud",
+      "type": "gun",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud"
+    },
+    {
+      "name": "ChorusClay",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chorus_clay"
+    },
+    {
+      "name": "ChorusBrickR",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chorus_brick_r"
+    },
+    {
+      "name": "MudBrick",
+      "type": "gun",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud_brick"
+    },
+    {
+      "name": "MudBrickC",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mud_brick_c"
+    },
+    {
+      "name": "MixerC",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mixer_c"
+    },
+    {
+      "name": "Pebble",
+      "type": "gun",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pebble"
+    },
+    {
+      "name": "PebbleR",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pebble_r"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.yeet_a_brick.nether_brick": "Nether Brick",
+      "item.yeet_a_brick.chorus_brick": "Brick",
+      "item.yeet_a_brick.chorus_clay": "Chorus Clay",
+      "block.yeet_a_brick.mixer": "Mixer",
+      "item.yeet_a_brick.brick": "Brick",
+      "item.yeet_a_brick.chorus_powder": "Chorus Powder",
+      "item.yeet_a_brick.pebble": "Pebble",
+      "item.yeet_a_brick.grinding_bowl": "Grinding Bowl",
+      "item.yeet_a_brick.mud": "Mud",
+      "item.yeet_a_brick.mud_brick": "Brick"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "yeet_a_brick",
+    "modName": "Yeet-ABrick",
+    "version": "1.0.0",
+    "author": "arnav, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.yeet_a_brick",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

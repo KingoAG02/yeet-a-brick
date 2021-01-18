@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "yeet_a_brick:block/mixer"
+    },
+    "facing=east": {
+      "model": "yeet_a_brick:block/mixer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "yeet_a_brick:block/mixer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "yeet_a_brick:block/mixer",
+      "y": 270
+    }
+  }
+}

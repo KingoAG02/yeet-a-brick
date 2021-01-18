@@ -1,0 +1,24 @@
+{
+  "group": "yeet_a_brick",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "minecraft:flint"
+    },
+    "2": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "yeet_a_brick:grinding_bowl",
+    "count": 1
+  }
+}

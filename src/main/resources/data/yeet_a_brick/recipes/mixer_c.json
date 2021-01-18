@@ -1,0 +1,42 @@
+{
+  "group": "yeet_a_brick",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yeet_a_brick:grinding_bowl"
+    },
+    "1": {
+      "item": "minecraft:bowl"
+    },
+    "2": {
+      "item": "minecraft:bowl"
+    },
+    "3": {
+      "item": "minecraft:orange_carpet"
+    },
+    "4": {
+      "item": "minecraft:orange_carpet"
+    },
+    "5": {
+      "item": "minecraft:orange_carpet"
+    },
+    "6": {
+      "item": "minecraft:stone_slab"
+    },
+    "7": {
+      "item": "minecraft:stone_slab"
+    },
+    "8": {
+      "item": "minecraft:stone_slab"
+    }
+  },
+  "result": {
+    "item": "yeet_a_brick:mixer",
+    "count": 1
+  }
+}

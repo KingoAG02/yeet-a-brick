@@ -1,0 +1,12 @@
+{
+  "group": "yeet_a_brick",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "yeet_a_brick:chorus_clay"
+  },
+  "result": {
+    "item": "yeet_a_brick:chorus_brick"
+  }
+}

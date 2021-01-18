@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "yeet_a_brick:items/chorus_clay"
+  }
+}

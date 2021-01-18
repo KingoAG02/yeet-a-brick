@@ -1,0 +1,37 @@
+{
+  "_fv": 13,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "brick",
+    "customModelName": "Normal",
+    "name": "Brick",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "MATERIALS"
+    },
+    "stackSize": 64,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 0.3,
+    "bulletDamage": 4.0,
+    "bulletKnockback": 2,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Items.BRICK"
+    },
+    "bulletModel": "ModelBrick",
+    "customBulletModelTexture": "brick2.png"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "yeet_a_brick",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yeet_a_brick:brick"
+    }
+  ],
+  "result": {
+    "item": "minecraft:brick",
+    "count": 1
+  }
+}
